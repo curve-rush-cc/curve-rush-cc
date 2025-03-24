@@ -1,10 +1,6 @@
 # Curve Rush - An Addictive Curve Racing Adventure
-
-![Curve Rush Game Screenshot](/curve-rush2.jpeg)
-![Curve Rush Game Screenshot](/curve-rush3.jpeg)
-
 Ever dreamed of experiencing the thrill of racing through desert landscapes? [Curve Rush](https://curverush.cc) brings you a unique adventure that perfectly combines simple controls with challenging gameplay in an endless world of curves!
-
+![Curve Rush Game Screenshot](//curve-rush1.jpeg)
 ## 🎮 How To Play
 
 ### Basic Controls
@@ -12,13 +8,14 @@ Ever dreamed of experiencing the thrill of racing through desert landscapes? [Cu
 - Hold to speed up
 - Release to take flight
 - Hold down while airborne for precise diving control
+![Curve Rush Game Screenshot](/curve-rush2.jpeg)
 
 ### Game Objective
 In [Curve Rush](https://curverush.cc), your mission is to:
 - Collect coins scattered across slopes and in the air
 - Maintain smooth landings to prevent ball shattering
 - Challenge for maximum distance records
-
+![Curve Rush Game Screenshot](/curve-rush3.jpeg)
 ## ✨ Key Features
 
 ### Stunning Visuals
@@ -32,7 +29,7 @@ The game offers diverse scenic options:
 - Unique design styles
 - Stand out on the leaderboards
 
-![Ball Collection](/files/images/curve-rush4.jpeg)
+![Curve Rush Game Screenshot](//curve-rush4.jpeg)
 
 ### Achievement Mode
 Four exciting game stages:
