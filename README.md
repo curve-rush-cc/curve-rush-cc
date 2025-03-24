@@ -1,6 +1,6 @@
 # Curve Rush - An Addictive Curve Racing Adventure
 Ever dreamed of experiencing the thrill of racing through desert landscapes? [Curve Rush](https://curverush.cc) brings you a unique adventure that perfectly combines simple controls with challenging gameplay in an endless world of curves!
-![Curve Rush Game Screenshot](//curve-rush1.jpeg)
+![Curve Rush Game Screenshot](/curve-rush1.jpeg)
 ## 🎮 How To Play
 
 ### Basic Controls
@@ -29,7 +29,7 @@ The game offers diverse scenic options:
 - Unique design styles
 - Stand out on the leaderboards
 
-![Curve Rush Game Screenshot](//curve-rush4.jpeg)
+![Curve Rush Game Screenshot](/curve-rush4.jpeg)
 
 ### Achievement Mode
 Four exciting game stages:
